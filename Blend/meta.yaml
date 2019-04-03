@@ -1,0 +1,6 @@
+name: Blend
+version: '1.0'
+description: Use Laravel Mix with Statamic in Blade templates like you already do with Laravel.
+url: https://github.com/zawilliams/statamic-blend
+developer: Zach Williams
+developer_url: zachwilliams.me
